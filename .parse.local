@@ -1,0 +1,10 @@
+{
+  "applications": {
+    "Slate": {
+      "applicationId": "Few1XXtjnoqhyNLOqgEz63H4GOg2IonFIlLEXVKy"
+    },
+    "_default": {
+      "link": "Slate"
+    }
+  }
+}
